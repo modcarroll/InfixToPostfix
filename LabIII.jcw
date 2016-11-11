@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>LabIII</label>
+	</settings>
+	<users>
+		<user>
+			<path>LabIII.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>LabIII.jcp</path>
+		</project>
+	</projects>
+</workspace>

@@ -1,0 +1,6 @@
+"\\\\WDMYCLOUD\\Public\\Morgan\\Documents\\Archive\\School\\UT Tyler\\Spring 2015\\COSC 2336 - Data Structures  Algorithms\\Lab Assignments\\Lab 3\\LabIII.java"
+"\\\\WDMYCLOUD\\Public\\Morgan\\Documents\\Archive\\School\\UT Tyler\\Spring 2015\\COSC 2336 - Data Structures  Algorithms\\Lab Assignments\\Lab 3\\Node.java"
+"\\\\WDMYCLOUD\\Public\\Morgan\\Documents\\Archive\\School\\UT Tyler\\Spring 2015\\COSC 2336 - Data Structures  Algorithms\\Lab Assignments\\Lab 3\\NodeInt.java"
+"\\\\WDMYCLOUD\\Public\\Morgan\\Documents\\Archive\\School\\UT Tyler\\Spring 2015\\COSC 2336 - Data Structures  Algorithms\\Lab Assignments\\Lab 3\\operandStack.java"
+"\\\\WDMYCLOUD\\Public\\Morgan\\Documents\\Archive\\School\\UT Tyler\\Spring 2015\\COSC 2336 - Data Structures  Algorithms\\Lab Assignments\\Lab 3\\operatorStack.java"
+"\\\\WDMYCLOUD\\Public\\Morgan\\Documents\\Archive\\School\\UT Tyler\\Spring 2015\\COSC 2336 - Data Structures  Algorithms\\Lab Assignments\\Lab 3\\Stack.java"
